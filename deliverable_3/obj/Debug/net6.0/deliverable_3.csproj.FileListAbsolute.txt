@@ -1,0 +1,15 @@
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.csproj.AssemblyReference.cache
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.AssemblyInfoInputs.cache
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.AssemblyInfo.cs
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.csproj.CoreCompileInputs.cache
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\bin\Debug\net6.0\deliverable_3.exe
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\bin\Debug\net6.0\deliverable_3.deps.json
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\bin\Debug\net6.0\deliverable_3.runtimeconfig.json
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\bin\Debug\net6.0\deliverable_3.dll
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\bin\Debug\net6.0\deliverable_3.pdb
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.dll
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\refint\deliverable_3.dll
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.pdb
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\deliverable_3.genruntimeconfig.cache
+C:\Users\dechi\source\repos\deliverable_3\deliverable_3\obj\Debug\net6.0\ref\deliverable_3.dll
